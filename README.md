@@ -24,4 +24,4 @@ Se você quiser contribuir para o desenvolvimento deste jogo da velha, fique à 
 
 ## Licença
 
-Este projeto está licenciado sob [None](LICENSE).
+Nenhuma licensa.
