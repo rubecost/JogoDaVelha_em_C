@@ -4,8 +4,8 @@ Este é um simples jogo da velha implementado em C.
 
 ## Instruções de instalação
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/JogoDaVelha_em_C.git`
-2. Navegue até o diretório do jogo da velha: `cd seu-repositorio/jogo-da-velha`
+1. Clone o repositório: `git clone https://github.com/rubecost/JogoDaVelha_em_C.git`
+2. Navegue até o diretório do jogo da velha: `cd JogoDaVelha_em_C/jogo-da-velha`
 3. Compile o código-fonte: `gcc jogo_da_velha.c -o jogo_da_velha`
 4. Execute o jogo: `./jogo_da_velha`
 
